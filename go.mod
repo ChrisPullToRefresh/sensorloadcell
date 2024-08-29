@@ -1,4 +1,4 @@
-module github.com/sensorloadcell/sensorloadcell
+module github.com/ChrisPullToRefresh/sensorloadcell
 
 go 1.22.0
 

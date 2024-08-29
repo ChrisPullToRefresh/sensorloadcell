@@ -17,7 +17,7 @@ import (
 	rdkutils "go.viam.com/rdk/utils"
 	"go.viam.com/utils"
 
-	customsensor "github.com/sensorloadcell/sensorloadcell"
+	customsensor "github.com/ChrisPullToRefresh/sensorloadcell"
 )
 
 func main() {
