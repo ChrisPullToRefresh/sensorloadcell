@@ -12,7 +12,7 @@ import (
 	// Import your local package "customsensor"
 	// TODO: Update this path if your custom resource is in a different location,
 	// or has a different name:
-	"github.com/ChrisPullToRefresh/sensorloadcell"
+	sensorloadcell "github.com/ChrisPullToRefresh/sensorloadcell"
 )
 
 func main() {

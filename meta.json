@@ -1,0 +1,14 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "pulltorefresh:sensorloadcell",
+  "visibility": "private",
+  "url": "https://github.com/ChrisPullToRefresh/sensorloadcell",
+  "description": "A custom component for stopping the winch when the load cell reading is too high to prevent the net from snapping",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "pulltorefresh:sensorloadcell:sensorloadcell"
+    }
+  ],
+  "entrypoint": "bin/customsensor"
+}
